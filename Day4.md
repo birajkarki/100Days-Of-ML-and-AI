@@ -4,7 +4,6 @@
 This course from FreeCodeCamp is really helping me understand how to work with data using Python.
 
 🔗 Course Link: Data Analysis with Python - FreeCodeCamp
-https://www.freecodecamp.org/learn/data-analysis-with-python/
 
 It's amazing how Python, along with other tools like Numpy, Pandas, Matplotlib, and Seaborn, can help us make sense of information hidden in data.
 
